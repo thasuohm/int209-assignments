@@ -1,4 +1,8 @@
-# ASSIGNMENT 3
+# Linux assignment
+
+## 1. Excercise File
+
+```bash
 
 mkdir -p ~/wipcamp12/{programmer,network,ux-ui}
 
@@ -13,3 +17,5 @@ rm ~/wipcamp13/slide03.txt
 mv ~/wipcamp12/slide01.txt ~/wipcamp12/newslide.txt
 
 rm -rf ~/wipcamp12 ~/wipcamp13
+
+```
